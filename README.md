@@ -32,9 +32,9 @@ Bu proje, Docker kullanarak basit bir Flask web uygulamasının nasıl konteyner
 
 ## Proje Yapısı
 .
-├── app.py          # Flask uygulama dosyası
-├── Dockerfile      # Docker imajını oluşturmak için kullanılan dosya
-└── requirements.txt  # Python bağımlılıkları
+├── app.py        
+├── Dockerfile      
+└── requirements.txt  
 
 ## Kullanım
 
